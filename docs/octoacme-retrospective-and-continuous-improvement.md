@@ -16,6 +16,16 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Include all relevant roles in the retrospective:
+  - Project Manager (facilitator)
+  - Product Manager
+  - Developers
+  - UX Designer (for features with UI changes)
+  - Data Analyst (to share metrics and insights)
+  - Release Manager (for release retrospectives)
+  - QA/Testing
+  - Customer Support Lead (to share customer feedback)
+  - Security Lead (if security topics arose)
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
