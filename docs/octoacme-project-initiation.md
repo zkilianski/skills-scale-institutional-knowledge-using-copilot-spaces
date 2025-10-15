@@ -28,6 +28,46 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Tech Lead / Developers:
+  - UX Designer (if UI/UX work required):
+  - Data Analyst (if metrics/analytics required):
+  - Release Manager (assigned or default):
+  - Security Lead (for security review):
+  - Customer Support Lead (for customer-facing changes):
+
+## Role-Specific Initiation Activities
+
+### Project Manager
+- Draft the one-pager and coordinate stakeholder alignment
+- Set up project board and initial documentation structure
+- Schedule kickoff meeting
+
+### Product Manager
+- Define problem statement and success metrics
+- Identify key stakeholders and champions
+- Validate business need and priority
+
+### UX Designer
+- Assess UX research needs and scope
+- Identify accessibility requirements
+- Plan user validation approach
+
+### Data Analyst
+- Define measurable success criteria and KPIs
+- Assess analytics instrumentation needs
+- Plan measurement and reporting approach
+
+### Security Lead
+- Conduct initial threat assessment
+- Identify compliance requirements
+- Estimate security review effort
+
+### Customer Support Lead
+- Review impact on customers and support operations
+- Identify documentation needs
+- Plan communication to support team
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

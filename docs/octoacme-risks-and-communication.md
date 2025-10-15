@@ -39,4 +39,43 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify Security Lead
+- For customer-impacting issues, notify Customer Support Lead immediately
+- For release blockers, escalate to Release Manager and Product Manager
+
+## Role-Based Communication Responsibilities
+
+### Project Manager
+- Send weekly status updates to stakeholders
+- Facilitate risk reviews and escalation decisions
+- Coordinate cross-team communications
+
+### Product Manager
+- Communicate roadmap changes and priority shifts
+- Share customer insights and market feedback
+- Report on success metrics and outcomes
+
+### Release Manager
+- Announce upcoming releases and deployment windows
+- Communicate release status and any delays
+- Lead post-release communications and retrospectives
+
+### Customer Support Lead
+- Report customer satisfaction trends and top issues
+- Escalate critical customer problems
+- Communicate service disruptions to customers
+
+### Security Lead
+- Report security vulnerabilities and remediation status
+- Communicate security incidents per incident runbook
+- Share security best practices and training
+
+### Data Analyst
+- Share regular metrics reports and dashboards
+- Communicate data quality issues
+- Present insights from data analysis
+
+### UX Designer
+- Share user research findings and design recommendations
+- Communicate design decisions and rationale
+- Report usability issues and improvement opportunities

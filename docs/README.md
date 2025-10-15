@@ -68,6 +68,31 @@ Key personas play distinct but interconnected roles throughout the project lifec
 - **Responsibilities**: Implement features meeting acceptance criteria, write tests and documentation, participate in reviews and estimation, identify technical risks
 - **Goals**: Reduce cycle time, maintain high test coverage and observability
 
+### UX Designers
+- **Focus**: Create intuitive, accessible user experiences
+- **Responsibilities**: Conduct user research, design interfaces, create prototypes, validate through testing, maintain design systems
+- **Goals**: Reduce user friction, increase satisfaction, ensure consistent design patterns
+
+### Data Analysts
+- **Focus**: Enable data-driven decision making
+- **Responsibilities**: Define and track KPIs, build dashboards, analyze user behavior, conduct A/B tests, provide recommendations
+- **Goals**: Measure product impact, identify optimization opportunities, maintain analytics infrastructure
+
+### Release Managers
+- **Focus**: Orchestrate reliable, on-schedule releases
+- **Responsibilities**: Plan releases, coordinate deployments, manage go/no-go decisions, track release metrics, maintain runbooks
+- **Goals**: Minimize deployment risks, reduce downtime, improve release processes
+
+### Customer Support Leads
+- **Focus**: Represent customer voice and manage support operations
+- **Responsibilities**: Manage support team, escalate issues, provide customer insights, maintain documentation, track support metrics
+- **Goals**: Deliver excellent customer experience, reduce resolution time, advocate for customer needs
+
+### Security Leads
+- **Focus**: Establish security practices and ensure compliance
+- **Responsibilities**: Define security standards, conduct reviews, manage vulnerabilities, respond to incidents, provide training
+- **Goals**: Minimize vulnerabilities, ensure compliance, build security awareness
+
 Each role is supported by defined responsibilities and communication touchpoints, ensuring alignment and transparency across functions.
 
 ## Communication Strategies
